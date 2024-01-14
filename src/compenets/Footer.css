@@ -1,10 +1,11 @@
  footer {
     display: flex;
-    background-color: #343a40; 
+    background-color: #3a7ca5; 
     padding: 20px; 
     margin-top: auto; 
     width: 100%;
-    position: relative;
+    position: absolute;
+    bottom: 0;
   }
 
 .footer-container {
@@ -24,11 +25,12 @@
 }
 
 .footer-container li {
-    margin: 10px;
+    margin: 5px;
     
 }
 .footer-container a {
-    color: aliceblue;
+    color: #d9dcd6;
+    font-size: 1.2rem;
 }
 
 .footer-socials {
