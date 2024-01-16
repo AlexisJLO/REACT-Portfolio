@@ -26,7 +26,7 @@ const Footer = () => {
         <ul>
           <li>
             <Link to="https://github.com/AlexisJLO" target="_blank">
-              <img src="./src/assets/socials/github.png" alt="github" />
+              <img src="./public/assets/socials/github.png" alt="github" />
             </Link>
           </li>
           <li>
