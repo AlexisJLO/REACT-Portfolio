@@ -9,7 +9,7 @@
 
 ## Description
 
-
+This is my portfolio page where I show my skills, projects, and also displays my resume. 
 
 ## Screenshot
 
@@ -17,7 +17,7 @@
 
 ## Usage
 
-This portfolio was created for potential employers could look at and learn something about me.
+This portfolio was created for potential employers to see my skills in web development.
 
 ## License
 
