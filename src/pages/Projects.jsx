@@ -8,10 +8,7 @@ export default function Projects() {
           to="https://ancient-retreat-96165-046e407ce051.herokuapp.com/"
           target="_blank"
         >
-          <img
-            src="./src/assets/projects/Fast Lane Rental.PNG"
-            alt="Project 1"
-          />
+          <img src="/images/projects/Fast Lane Rental.PNG" alt="Project 1" />
         </Link>
 
         <h3>Fast Lane Rentals</h3>
@@ -32,7 +29,7 @@ export default function Projects() {
 
       <div className="project 2">
         <Link to="https://jcwarwick.github.io/Group2-Project/" target="_blank">
-          <img src="./src/assets/projects/group project.PNG" alt="Project 2" />
+          <img src="/images/projects/group project.PNG" alt="Project 2" />
         </Link>
 
         <h3>Movie Search Engine</h3>
@@ -46,7 +43,7 @@ export default function Projects() {
       </div>
       <div className="project 3">
         <Link to="https://alexisjlo.github.io/Restaurant-Menu/" target="_blank">
-          <img src="./src/assets/projects/KFCmenu.PNG" alt="Project 3" />
+          <img src="/images/projects/KFCmenu.PNG" alt="Project 3" />
         </Link>
 
         <h3>KFC Menu Clone</h3>

@@ -7,23 +7,23 @@ export default function Resume() {
           <h2>Front-End</h2>
           <ul>
             <li>
-              <img src="./src/assets/Tech/HTML5.png" alt="" />
+              <img src="/images/Tech/HTML5.png" alt="" />
               HTML
             </li>
             <li>
-              <img src="./src/assets/Tech/CSS3.png" alt="" />
+              <img src="/images/Tech/CSS3.png" alt="" />
               CSS
             </li>
             <li>
-              <img src="./src/assets/Tech/REACT.png" alt="" />
+              <img src="/images/Tech/REACT.png" alt="" />
               React
             </li>
             <li>
-              <img src="./src/assets/Tech/JavaScript.png" alt="" />
+              <img src="/images/Tech/JavaScript.png" alt="" />
               Javascipt
             </li>
             <li>
-              <img src="./src/assets/Tech/bootstrap-stack.png" alt="" />
+              <img src="/images/Tech/bootstrap-stack.png" alt="" />
               Bootstrap
             </li>
           </ul>
@@ -32,23 +32,23 @@ export default function Resume() {
           <h2>Back-End</h2>
           <ul>
             <li>
-              <img src="./src/assets/Tech/node-js-icon-8.jpg" alt="" />
+              <img src="/images/Tech/node-js-icon-8.jpg" alt="" />
               Node
             </li>
             <li>
-              <img src="./src/assets/Tech/express js.png" alt="" />
+              <img src="/images/Tech/express js.png" alt="" />
               Express
             </li>
             <li>
-              <img src="./src/assets/Tech/mysql-5.png" alt="" />
+              <img src="/images/Tech/mysql-5.png" alt="" />
               MySQL
             </li>
             <li>
-              <img src="./src/assets/Tech/mongodb.png" alt="" />
+              <img src="/images/Tech/mongodb.png" alt="" />
               MongoDB
             </li>
             <li>
-              <img src="./src/assets/Tech/json.png" alt="" />
+              <img src="/images/Tech/json.png" alt="" />
               JSON
             </li>
           </ul>

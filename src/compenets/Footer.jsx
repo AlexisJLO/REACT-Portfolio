@@ -31,7 +31,7 @@ const Footer = () => {
           </li>
           <li>
             <Link to="https://www.linkedin.com/in/alexisjlo/" target="_blank">
-              <img src="./src/assets/socials/linkedin.png" alt="Linkedin" />
+              <img src="/images/socials/linkedin.png" alt="Linkedin" />
             </Link>
           </li>
         </ul>
